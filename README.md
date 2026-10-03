@@ -18,7 +18,7 @@ The main goal is to understand and practice the following Solidity fundamentals:
 - Contract compilation and deployment with Remix.
 - Basic Smart Contract testing through Remix.
 
-The contract is implemented in [`Calculadora.sol`](./Calculadora.sol).
+The contract is implemented in [`Calculator.sol`](./Calculator.sol).
 
 
 ### System flow
