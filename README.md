@@ -53,7 +53,7 @@ The project is compiled, deployed and tested using [Remix IDE](https://remix.eth
 
 Remix is used to practice the complete basic workflow of a Smart Contract:
 
-1. Compile [`Calculadora.sol`](./Calculadora.sol).
+1. Compile [`Calculator.sol`](./Calculator.sol).
 2. Deploy the contract.
 3. Inspect the initial value of `resultado`.
 4. Execute the available public functions.
